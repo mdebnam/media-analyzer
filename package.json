@@ -1,0 +1,15 @@
+{
+  "name": "media-analyzer",
+  "version": "1.0.0",
+  "description": "Pull and process audio and video stream data from media files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "git://github.com/mdebnam/media-analyzer"
+  },
+  "author": "",
+  "license": "ISC"
+}
