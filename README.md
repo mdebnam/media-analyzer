@@ -14,7 +14,7 @@ CSV Fields
 - File Size (in human readable format)
 - Duration (hh:mm:ss)
 - Audio Stream (one per line)
-- Audio Channels (one per line in format (#num channels) <encoding type>)
+- Audio Channels (one per line in format (#num channels) \<encoding type\>)
 - Video Codec
 - Video Dimensions (WxH)
 - Video Bit Rate
