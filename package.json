@@ -7,8 +7,12 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "type" : "git",
-    "url" : "git://github.com/mdebnam/media-analyzer"
+    "type": "git",
+    "url": "git://github.com/mdebnam/media-analyzer"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "walk": "^2.3.9"
   },
   "author": "",
   "license": "ISC"
